@@ -1,0 +1,6 @@
+node_modules/
+dist/
+work-tests/
+*.tsbuildinfo
+.env*
+!.env.example
